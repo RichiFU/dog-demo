@@ -4,5 +4,10 @@ sushi
 gladiator
 lord of the rings
 el padrino
+<<<<<<< HEAD
 
 el asustador
+=======
+la soa
+lacosa
+>>>>>>> 9c994e35378de9a2c728bb1a8c84e3de591ea37f
