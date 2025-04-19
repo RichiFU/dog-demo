@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 hamburguesas
 pizzas
 sushi
-=======
 gladiator
 lord of the rings
 el padrino
->>>>>>> movies
